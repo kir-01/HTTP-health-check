@@ -2,7 +2,6 @@ import sys
 import yaml
 import requests
 import time
-from urllib.parse import urlparse
 
 def read_config(file_path):
     try:
